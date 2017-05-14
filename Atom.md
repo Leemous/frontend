@@ -26,6 +26,7 @@
   > 安装需要打开代理
 
 3. GitPlus
+
   安装了这个插件，我们就不用在Atom与终端之间切换了，可以直接在Atom中输入git命令
 
 100. Atom插件推荐：http://blog.csdn.net/zsl10/article/details/51822715
