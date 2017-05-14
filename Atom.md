@@ -49,6 +49,6 @@
 
   其实还有更牛逼的方法：
 
-  Atom-Packages-Git Plus-Add(All)+Commit+Push，直接完成全部操作，但只适合新文件的提交，前提能够确保不会产生冲突，强烈建议在GitPlus的Setting中勾选"Pull Before Pushing"，它会对远程仓库文件起到一定的保护作用。
+  Atom-Packages-Git Plus-Add(All)+Commit+Push，直接完成全部操作，前提能够确保不会产生冲突，比较适合新文件的提交，强烈建议在GitPlus的Setting中勾选"Pull Before Pushing"，它会对远程仓库文件起到一定的保护作用。
 
 100. Atom插件推荐：http://blog.csdn.net/zsl10/article/details/51822715
